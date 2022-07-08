@@ -4,25 +4,27 @@
     "url": "https://grafana.bojko.eu",
     "icon": "https://favicons.githubusercontent.com/grafana.bojko.eu",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1354,
     "timeDay": 1778,
     "timeWeek": 1354,
     "timeMonth": 1354,
     "timeYear": 1354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 2
+    }
   },
   {
     "name": "Rancher",
     "url": "https://rancher.bojko.eu",
     "icon": "https://favicons.githubusercontent.com/rancher.bojko.eu",
     "slug": "rancher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 577,
     "timeMonth": 577,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   }
 ]
