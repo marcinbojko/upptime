@@ -120,19 +120,19 @@
     "url": "https://cloud.supla.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.supla.org.ico",
     "slug": "supla-cloud",
-    "status": "down",
-    "uptime": "56.13%",
-    "uptimeDay": "56.13%",
-    "uptimeWeek": "56.13%",
-    "uptimeMonth": "56.13%",
-    "uptimeYear": "56.13%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.72%",
+    "uptimeDay": "1.72%",
+    "uptimeWeek": "1.72%",
+    "uptimeMonth": "1.72%",
+    "uptimeYear": "1.72%",
+    "time": 641,
+    "timeDay": 641,
+    "timeWeek": 641,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 35
     }
   }
 ]
