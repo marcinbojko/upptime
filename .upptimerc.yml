@@ -7,6 +7,8 @@ sites:
     url: https://grafana.bojko.eu
   - name: Rancher
     url: https://rancher.bojko.eu
+  - name: Supla Cloud
+    url: https://cloud.supla.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
