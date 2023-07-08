@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "96.90%",
-    "time": 1356,
-    "timeDay": 1017,
-    "timeWeek": 993,
-    "timeMonth": 1061,
-    "timeYear": 1357,
+    "uptime": "96.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "96.91%",
+    "time": 1355,
+    "timeDay": 963,
+    "timeWeek": 992,
+    "timeMonth": 1054,
+    "timeYear": 1355,
     "dailyMinutesDown": {
-      "2023-07-07": 7,
       "2023-06-13": 56,
       "2023-05-23": 56,
       "2023-05-18": 248,
@@ -57,8 +56,7 @@
       "2022-08-23": 339,
       "2022-08-20": 32,
       "2022-07-25": 301,
-      "2022-07-24": 303,
-      "2022-07-08": 51
+      "2022-07-24": 303
     }
   },
   {
@@ -68,17 +66,16 @@
     "slug": "rancher",
     "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "98.21%",
-    "time": 976,
-    "timeDay": 666,
-    "timeWeek": 583,
-    "timeMonth": 589,
+    "time": 975,
+    "timeDay": 683,
+    "timeWeek": 611,
+    "timeMonth": 590,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2023-07-07": 7,
       "2023-06-13": 55,
       "2023-05-23": 56,
       "2023-05-18": 249,
@@ -115,8 +112,7 @@
       "2022-08-23": 326,
       "2022-08-20": 22,
       "2022-07-25": 301,
-      "2022-07-24": 302,
-      "2022-07-08": 49
+      "2022-07-24": 302
     }
   },
   {
@@ -130,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 836,
-    "timeDay": 670,
-    "timeWeek": 921,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "time": 827,
+    "timeDay": 616,
+    "timeWeek": 852,
+    "timeMonth": 827,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2023-06-13": 35
     }
