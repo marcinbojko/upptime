@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "97.04%",
+    "uptime": "97.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "96.90%",
-    "time": 1341,
-    "timeDay": 1588,
-    "timeWeek": 1008,
-    "timeMonth": 973,
-    "timeYear": 1342,
+    "uptimeYear": "96.96%",
+    "time": 1340,
+    "timeDay": 632,
+    "timeWeek": 998,
+    "timeMonth": 961,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2023-07-20": 83,
       "2023-06-13": 56,
@@ -55,8 +55,7 @@
       "2022-09-27": 108,
       "2022-08-30": 187,
       "2022-08-23": 339,
-      "2022-08-20": 32,
-      "2022-07-25": 301
+      "2022-08-20": 32
     }
   },
   {
@@ -69,12 +68,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "98.20%",
-    "time": 959,
-    "timeDay": 619,
-    "timeWeek": 548,
-    "timeMonth": 559,
-    "timeYear": 975,
+    "uptimeYear": "98.26%",
+    "time": 958,
+    "timeDay": 422,
+    "timeWeek": 550,
+    "timeMonth": 554,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2023-07-20": 83,
       "2023-06-13": 55,
@@ -111,8 +110,7 @@
       "2022-09-27": 107,
       "2022-08-30": 187,
       "2022-08-23": 326,
-      "2022-08-20": 22,
-      "2022-07-25": 301
+      "2022-08-20": 22
     }
   },
   {
@@ -126,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 843,
-    "timeDay": 1685,
-    "timeWeek": 834,
-    "timeMonth": 852,
-    "timeYear": 843,
+    "time": 841,
+    "timeDay": 754,
+    "timeWeek": 859,
+    "timeMonth": 848,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2023-06-13": 35
     }
