@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "90.73%",
-    "uptimeDay": "71.84%",
-    "uptimeWeek": "26.30%",
-    "uptimeMonth": "51.33%",
-    "uptimeYear": "88.50%",
+    "uptime": "90.54%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "20.39%",
+    "uptimeMonth": "48.88%",
+    "uptimeYear": "88.22%",
     "time": 1332,
-    "timeDay": 5717,
-    "timeWeek": 4989,
-    "timeMonth": 1642,
-    "timeYear": 1258,
+    "timeDay": 0,
+    "timeWeek": 2540,
+    "timeMonth": 1725,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-10-14": 8,
+      "2023-10-15": 10,
+      "2023-10-14": 1440,
       "2023-10-13": 397,
       "2023-10-12": 427,
       "2023-10-11": 1440,
@@ -97,8 +98,7 @@
       "2023-01-14": 1154,
       "2023-01-13": 972,
       "2022-12-03": 81,
-      "2022-11-09": 40,
-      "2022-10-15": 44
+      "2022-11-09": 40
     }
   },
   {
@@ -107,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
     "status": "down",
-    "uptime": "91.80%",
-    "uptimeDay": "71.94%",
-    "uptimeWeek": "26.33%",
-    "uptimeMonth": "51.37%",
-    "uptimeYear": "89.85%",
+    "uptime": "91.60%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "20.41%",
+    "uptimeMonth": "48.92%",
+    "uptimeYear": "89.58%",
     "time": 956,
     "timeDay": 0,
     "timeWeek": 591,
-    "timeMonth": 986,
-    "timeYear": 879,
+    "timeMonth": 1017,
+    "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-10-14": 9,
+      "2023-10-15": 10,
+      "2023-10-14": 1440,
       "2023-10-13": 395,
       "2023-10-12": 427,
       "2023-10-11": 1440,
@@ -193,8 +194,7 @@
       "2023-01-14": 1154,
       "2023-01-13": 971,
       "2022-12-03": 81,
-      "2022-11-09": 32,
-      "2022-10-15": 44
+      "2022-11-09": 32
     }
   },
   {
@@ -208,11 +208,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 872,
-    "timeDay": 710,
-    "timeWeek": 1002,
+    "time": 871,
+    "timeDay": 776,
+    "timeWeek": 1000,
     "timeMonth": 932,
-    "timeYear": 872,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2023-06-13": 35
     }
