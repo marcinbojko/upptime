@@ -16,7 +16,7 @@
     "timeMonth": 1811,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2023-10-24": 723,
+      "2023-10-24": 732,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -127,7 +127,7 @@
     "timeMonth": 1054,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2023-10-24": 723,
+      "2023-10-24": 732,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -220,19 +220,19 @@
     "url": "https://cloud.supla.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.supla.org.ico",
     "slug": "supla-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 871,
-    "timeDay": 1180,
-    "timeWeek": 832,
-    "timeMonth": 943,
-    "timeYear": 871,
+    "time": 873,
+    "timeDay": 1190,
+    "timeWeek": 869,
+    "timeMonth": 951,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2023-10-24": 0,
+      "2023-10-24": 9,
       "2023-06-13": 35
     }
   }
