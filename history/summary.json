@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "83.11%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "96.13%",
-    "uptimeYear": "74.91%",
+    "uptime": "83.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "74.92%",
     "time": 1309,
-    "timeDay": 1109,
-    "timeWeek": 1050,
-    "timeMonth": 1503,
-    "timeYear": 1216,
+    "timeDay": 1234,
+    "timeWeek": 1088,
+    "timeMonth": 1507,
+    "timeYear": 1217,
     "dailyMinutesDown": {
-      "2024-01-26": 7,
       "2024-01-11": 16,
       "2024-01-05": 957,
       "2024-01-04": 715,
@@ -155,8 +154,7 @@
       "2023-02-08": 323,
       "2023-02-02": 21,
       "2023-01-30": 27,
-      "2023-01-28": 44,
-      "2023-01-27": 82
+      "2023-01-28": 44
     }
   },
   {
@@ -165,15 +163,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
     "status": "up",
-    "uptime": "85.76%",
+    "uptime": "85.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "78.10%",
-    "time": 805,
-    "timeDay": 579,
-    "timeWeek": 544,
-    "timeMonth": 656,
+    "time": 806,
+    "timeDay": 738,
+    "timeWeek": 567,
+    "timeMonth": 655,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2024-01-11": 16,
@@ -304,8 +302,7 @@
       "2023-02-02": 21,
       "2023-02-01": 19,
       "2023-01-30": 26,
-      "2023-01-28": 44,
-      "2023-01-27": 81
+      "2023-01-28": 44
     }
   },
   {
@@ -319,11 +316,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 857,
-    "timeDay": 650,
-    "timeWeek": 711,
-    "timeMonth": 786,
-    "timeYear": 857,
+    "time": 858,
+    "timeDay": 1001,
+    "timeWeek": 767,
+    "timeMonth": 798,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2023-06-13": 35
     }
