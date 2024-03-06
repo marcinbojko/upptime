@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "84.05%",
+    "uptime": "84.06%",
     "uptimeDay": "98.51%",
-    "uptimeWeek": "87.83%",
+    "uptimeWeek": "92.97%",
     "uptimeMonth": "96.91%",
     "uptimeYear": "75.06%",
     "time": 1220,
-    "timeDay": 1128,
-    "timeWeek": 1140,
-    "timeMonth": 1172,
-    "timeYear": 1235,
+    "timeDay": 1061,
+    "timeWeek": 1170,
+    "timeMonth": 1175,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2024-03-05": 21,
       "2024-03-02": 19,
@@ -149,8 +149,7 @@
       "2023-04-20": 654,
       "2023-04-05": 263,
       "2023-03-10": 457,
-      "2023-03-09": 346,
-      "2023-03-07": 19
+      "2023-03-09": 346
     }
   },
   {
@@ -159,15 +158,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
     "status": "up",
-    "uptime": "86.74%",
+    "uptime": "86.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.87%",
+    "uptimeWeek": "93.01%",
     "uptimeMonth": "96.91%",
     "uptimeYear": "78.17%",
     "time": 736,
-    "timeDay": 631,
-    "timeWeek": 608,
-    "timeMonth": 621,
+    "timeDay": 534,
+    "timeWeek": 606,
+    "timeMonth": 613,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2024-03-02": 36,
@@ -291,8 +290,7 @@
       "2023-04-20": 61,
       "2023-04-05": 263,
       "2023-03-10": 457,
-      "2023-03-09": 346,
-      "2023-03-07": 19
+      "2023-03-09": 346
     }
   },
   {
@@ -307,9 +305,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 850,
-    "timeDay": 810,
-    "timeWeek": 700,
-    "timeMonth": 778,
+    "timeDay": 718,
+    "timeWeek": 727,
+    "timeMonth": 775,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2023-06-13": 35
