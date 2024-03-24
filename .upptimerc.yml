@@ -5,11 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: Grafana
     url: https://grafana.bojko.eu
+  - name: Grafana-test
+    url: https://grafana-test.bojko.eu    
   - name: Rancher
     url: https://rancher.bojko.eu
   - name: Supla Cloud
     url: https://cloud.supla.org
-
+  - name: bojko.dev
+    url: https://bojko.dev/
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+  - name: Cloudflare DNS
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -19,6 +30,7 @@ status-website:
   name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Status page for /marcinbojko/upptime
+  theme: dark
   navbar:
     - title: Status
       href: /
