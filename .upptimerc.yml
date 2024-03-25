@@ -1,12 +1,11 @@
 # Change these first
 owner: marcinbojko # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
 sites:
   - name: Grafana
     url: https://grafana.bojko.eu
   - name: Grafana-test
-    url: https://grafana-test.bojko.eu    
+    url: https://grafana-test.bojko.eu
   - name: Rancher
     url: https://rancher.bojko.eu
   - name: Supla Cloud
@@ -38,7 +37,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 workflowSchedule:
