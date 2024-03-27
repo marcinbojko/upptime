@@ -160,19 +160,19 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 857,
-    "timeWeek": 1274,
-    "timeMonth": 1274,
-    "timeYear": 1274,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1260,
+    "timeDay": 946,
+    "timeWeek": 1260,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {
-      "2024-03-27": 0
+      "2024-03-27": 8
     }
   },
   {
