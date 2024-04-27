@@ -1,7 +1,7 @@
 url: nginx-demos.bojko.work
-status: up
-code: 200
-responseTime: 7556
-lastUpdated: 2024-04-26T23:04:24.606Z
+status: down
+code: 523
+responseTime: 2664
+lastUpdated: 2024-04-27T12:58:01.349Z
 startTime: 2024-03-24T16:14:06.616Z
 generator: Upptime <https://github.com/upptime/upptime>
