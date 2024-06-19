@@ -197,18 +197,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
     "status": "up",
-    "uptime": "89.05%",
-    "uptimeDay": "95.22%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "78.56%",
+    "uptime": "89.04%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "78.55%",
     "time": 716,
     "timeDay": 624,
     "timeWeek": 735,
     "timeMonth": 720,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2024-06-18": 69,
+      "2024-06-18": 62,
       "2024-06-17": 51,
       "2024-06-16": 40,
       "2024-06-15": 27,
@@ -335,7 +335,7 @@
       "2023-08-23": 564,
       "2023-08-22": 363,
       "2023-08-21": 686,
-      "2023-08-20": 339
+      "2023-08-20": 355
     }
   },
   {
@@ -385,7 +385,7 @@
     "uptime": "90.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.98%",
+    "uptimeMonth": "86.08%",
     "uptimeYear": "90.70%",
     "time": 1114,
     "timeDay": 961,
