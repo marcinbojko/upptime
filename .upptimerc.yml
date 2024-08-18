@@ -12,8 +12,6 @@ sites:
     url: https://cloud.supla.org
   - name: bojko.dev
     url: https://bojko.dev/
-  - name: Nginx-Demos
-    url: nginx-demos.bojko.work
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.8.8
