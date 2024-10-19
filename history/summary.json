@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.30%",
     "uptimeMonth": "98.48%",
-    "uptimeYear": "85.41%",
-    "time": 1392,
-    "timeDay": 1055,
-    "timeWeek": 2838,
+    "uptimeYear": "85.53%",
+    "time": 1393,
+    "timeDay": 1317,
+    "timeWeek": 2815,
     "timeMonth": 1891,
     "timeYear": 1415,
     "dailyMinutesDown": {
@@ -116,8 +116,7 @@
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
-      "2023-10-21": 1440,
-      "2023-10-20": 1440
+      "2023-10-21": 1440
     }
   },
   {
@@ -126,15 +125,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.31%",
     "uptimeMonth": "98.48%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "98.57%",
     "time": 1280,
-    "timeDay": 1011,
-    "timeWeek": 2787,
-    "timeMonth": 1868,
+    "timeDay": 984,
+    "timeWeek": 2755,
+    "timeMonth": 1867,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2024-10-16": 51,
@@ -177,17 +176,16 @@
     "slug": "rancher",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "94.24%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.07%",
     "time": 757,
-    "timeDay": 712,
-    "timeWeek": 1008,
-    "timeMonth": 870,
+    "timeDay": 617,
+    "timeWeek": 987,
+    "timeMonth": 869,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2024-10-18": 7,
       "2024-10-16": 50,
       "2024-10-15": 350,
       "2024-10-14": 173,
@@ -263,7 +261,7 @@
       "2023-12-18": 695,
       "2023-12-12": 39,
       "2023-12-11": 512,
-      "2023-12-10": 384
+      "2023-12-10": 433
     }
   },
   {
@@ -278,10 +276,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 849,
-    "timeDay": 705,
-    "timeWeek": 983,
-    "timeMonth": 889,
-    "timeYear": 839,
+    "timeDay": 684,
+    "timeWeek": 926,
+    "timeMonth": 883,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   },
   {
@@ -295,11 +293,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 482,
-    "timeDay": 418,
-    "timeWeek": 534,
+    "time": 481,
+    "timeDay": 389,
+    "timeWeek": 504,
     "timeMonth": 505,
-    "timeYear": 482,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2024-04-01": 21
     }
@@ -316,9 +314,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
+    "timeDay": 1,
     "timeWeek": 3,
-    "timeMonth": 5,
+    "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
   },
@@ -334,8 +332,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
-    "timeWeek": 7,
+    "timeDay": 2,
+    "timeWeek": 6,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
