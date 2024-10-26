@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "88.75%",
+    "uptime": "88.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.48%",
-    "uptimeYear": "87.17%",
+    "uptimeYear": "87.45%",
     "time": 1395,
-    "timeDay": 1089,
-    "timeWeek": 1314,
-    "timeMonth": 1887,
+    "timeDay": 1057,
+    "timeWeek": 1285,
+    "timeMonth": 1881,
     "timeYear": 1413,
     "dailyMinutesDown": {
       "2024-10-16": 51,
@@ -109,8 +109,7 @@
       "2023-10-31": 386,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   },
   {
@@ -124,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.61%",
-    "time": 1279,
-    "timeDay": 975,
-    "timeWeek": 1208,
-    "timeMonth": 1853,
-    "timeYear": 1279,
+    "time": 1278,
+    "timeDay": 1032,
+    "timeWeek": 1213,
+    "timeMonth": 1852,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2024-10-16": 51,
       "2024-10-15": 350,
@@ -175,8 +174,8 @@
     "uptimeMonth": "98.41%",
     "uptimeYear": "98.08%",
     "time": 748,
-    "timeDay": 652,
-    "timeWeek": 803,
+    "timeDay": 545,
+    "timeWeek": 823,
     "timeMonth": 895,
     "timeYear": 730,
     "dailyMinutesDown": {
@@ -271,9 +270,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 848,
-    "timeDay": 733,
-    "timeWeek": 769,
-    "timeMonth": 864,
+    "timeDay": 730,
+    "timeWeek": 775,
+    "timeMonth": 865,
     "timeYear": 836,
     "dailyMinutesDown": {}
   },
@@ -289,9 +288,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 480,
-    "timeDay": 376,
-    "timeWeek": 442,
-    "timeMonth": 490,
+    "timeDay": 384,
+    "timeWeek": 441,
+    "timeMonth": 489,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2024-04-01": 21
@@ -310,7 +309,7 @@
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 6,
-    "timeWeek": 2,
+    "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
