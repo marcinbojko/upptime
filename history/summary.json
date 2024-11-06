@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.69%",
-    "uptimeYear": "89.91%",
+    "uptimeYear": "89.93%",
     "time": 1396,
     "timeDay": 1131,
     "timeWeek": 1066,
@@ -157,18 +157,19 @@
     "url": "https://rancher.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.08%",
     "time": 749,
-    "timeDay": 545,
-    "timeWeek": 559,
-    "timeMonth": 805,
+    "timeDay": 539,
+    "timeWeek": 557,
+    "timeMonth": 800,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2024-11-06": 0,
       "2024-11-04": 25,
       "2024-10-28": 47,
       "2024-10-21": 24,
@@ -247,7 +248,7 @@
       "2023-12-18": 695,
       "2023-12-12": 39,
       "2023-12-11": 512,
-      "2023-12-10": 348
+      "2023-12-10": 301
     }
   },
   {
