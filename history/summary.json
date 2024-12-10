@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "89.80%",
+    "uptime": "89.81%",
     "uptimeDay": "98.62%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "97.39%",
     "time": 1410,
-    "timeDay": 1111,
-    "timeWeek": 1137,
-    "timeMonth": 1152,
-    "timeYear": 1390,
+    "timeDay": 1012,
+    "timeWeek": 1166,
+    "timeMonth": 1160,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2024-12-09": 20,
       "2024-12-06": 15,
@@ -71,8 +71,7 @@
       "2023-12-15": 18,
       "2023-12-14": 163,
       "2023-12-13": 676,
-      "2023-12-12": 1440,
-      "2023-12-11": 652
+      "2023-12-12": 1440
     }
   },
   {
@@ -87,9 +86,9 @@
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.69%",
     "time": 1265,
-    "timeDay": 1444,
-    "timeWeek": 1208,
-    "timeMonth": 1219,
+    "timeDay": 1589,
+    "timeWeek": 1246,
+    "timeMonth": 1230,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2024-12-01": 524,
@@ -141,10 +140,10 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.11%",
     "time": 725,
-    "timeDay": 757,
-    "timeWeek": 763,
-    "timeMonth": 693,
-    "timeYear": 727,
+    "timeDay": 860,
+    "timeWeek": 818,
+    "timeMonth": 701,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2024-12-09": 63,
       "2024-12-02": 24,
@@ -228,8 +227,7 @@
       "2023-12-20": 94,
       "2023-12-19": 499,
       "2023-12-18": 695,
-      "2023-12-12": 39,
-      "2023-12-11": 481
+      "2023-12-12": 39
     }
   },
   {
@@ -244,10 +242,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
-    "timeDay": 1271,
-    "timeWeek": 883,
-    "timeMonth": 832,
-    "timeYear": 829,
+    "timeDay": 817,
+    "timeWeek": 904,
+    "timeMonth": 829,
+    "timeYear": 830,
     "dailyMinutesDown": {}
   },
   {
@@ -262,9 +260,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 482,
-    "timeDay": 587,
-    "timeWeek": 534,
-    "timeMonth": 503,
+    "timeDay": 593,
+    "timeWeek": 563,
+    "timeMonth": 509,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2024-04-01": 21
