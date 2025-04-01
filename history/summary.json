@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.80%",
     "time": 1373,
-    "timeDay": 1723,
-    "timeWeek": 1320,
-    "timeMonth": 1364,
+    "timeDay": 982,
+    "timeWeek": 1293,
+    "timeMonth": 1360,
     "timeYear": 1386,
     "dailyMinutesDown": {
       "2025-03-19": 85,
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.95%",
     "time": 1260,
-    "timeDay": 1070,
-    "timeWeek": 1177,
-    "timeMonth": 1310,
+    "timeDay": 1046,
+    "timeWeek": 1167,
+    "timeMonth": 1311,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-03-19": 85,
@@ -114,8 +114,7 @@
       "2024-05-19": 34,
       "2024-05-14": 42,
       "2024-05-10": 60,
-      "2024-04-11": 152,
-      "2024-04-01": 117
+      "2024-04-11": 152
     }
   },
   {
@@ -130,9 +129,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.54%",
     "time": 741,
-    "timeDay": 517,
-    "timeWeek": 660,
-    "timeMonth": 779,
+    "timeDay": 557,
+    "timeWeek": 633,
+    "timeMonth": 780,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-03-19": 85,
@@ -215,10 +214,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 612,
-    "timeWeek": 776,
-    "timeMonth": 820,
+    "time": 830,
+    "timeDay": 617,
+    "timeWeek": 778,
+    "timeMonth": 817,
     "timeYear": 839,
     "dailyMinutesDown": {}
   },
@@ -233,14 +232,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 395,
-    "timeWeek": 493,
-    "timeMonth": 509,
+    "time": 484,
+    "timeDay": 371,
+    "timeWeek": 483,
+    "timeMonth": 508,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-04-01": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 1",
@@ -254,8 +251,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
-    "timeWeek": 4,
+    "timeDay": 2,
+    "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -272,8 +269,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
-    "timeWeek": 4,
+    "timeDay": 2,
+    "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
