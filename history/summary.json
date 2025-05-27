@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.98%",
     "time": 1358,
-    "timeDay": 1747,
-    "timeWeek": 1124,
-    "timeMonth": 1196,
+    "timeDay": 1101,
+    "timeWeek": 1092,
+    "timeMonth": 1197,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2025-05-21": 15,
@@ -49,8 +49,7 @@
       "2024-06-11": 40,
       "2024-06-04": 453,
       "2024-06-01": 101,
-      "2024-05-30": 74,
-      "2024-05-27": 34
+      "2024-05-30": 74
     }
   },
   {
@@ -64,10 +63,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.98%",
-    "time": 1250,
-    "timeDay": 1619,
-    "timeWeek": 1164,
-    "timeMonth": 1213,
+    "time": 1249,
+    "timeDay": 1215,
+    "timeWeek": 1144,
+    "timeMonth": 1215,
     "timeYear": 1258,
     "dailyMinutesDown": {
       "2025-05-13": 15,
@@ -116,17 +115,17 @@
     "slug": "rancher",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "98.54%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "98.53%",
     "time": 738,
-    "timeDay": 804,
-    "timeWeek": 646,
+    "timeDay": 742,
+    "timeWeek": 628,
     "timeMonth": 650,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2025-05-26": 32,
+      "2025-05-26": 22,
       "2025-05-19": 27,
       "2025-05-13": 15,
       "2025-05-05": 21,
@@ -193,7 +192,8 @@
       "2024-06-30": 121,
       "2024-06-28": 18,
       "2024-06-27": 277,
-      "2024-06-26": 16
+      "2024-06-26": 16,
+      "2024-06-24": 53
     }
   },
   {
@@ -208,10 +208,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
-    "timeDay": 1104,
-    "timeWeek": 903,
-    "timeMonth": 923,
-    "timeYear": 851,
+    "timeDay": 974,
+    "timeWeek": 906,
+    "timeMonth": 930,
+    "timeYear": 852,
     "dailyMinutesDown": {}
   },
   {
@@ -226,9 +226,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
-    "timeDay": 565,
-    "timeWeek": 538,
-    "timeMonth": 497,
+    "timeDay": 428,
+    "timeWeek": 521,
+    "timeMonth": 498,
     "timeYear": 488,
     "dailyMinutesDown": {}
   },
@@ -262,8 +262,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 9,
-    "timeWeek": 7,
+    "timeDay": 2,
+    "timeWeek": 6,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
