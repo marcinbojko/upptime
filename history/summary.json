@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "91.47%",
+    "uptime": "91.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -109,16 +109,16 @@
     "url": "https://rancher.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "98.94%",
     "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.64%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "98.58%",
     "time": 739,
-    "timeDay": 712,
-    "timeWeek": 769,
-    "timeMonth": 717,
+    "timeDay": 714,
+    "timeWeek": 764,
+    "timeMonth": 716,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2025-06-01": 15,
@@ -189,8 +189,7 @@
       "2024-07-08": 118,
       "2024-07-01": 84,
       "2024-06-30": 121,
-      "2024-06-28": 18,
-      "2024-06-27": 18
+      "2024-06-28": 18
     }
   },
   {
