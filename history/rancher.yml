@@ -1,7 +1,7 @@
 url: https://rancher.bojko.eu
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2025-06-12T06:25:12.456Z
+status: down
+code: 502
+responseTime: 544
+lastUpdated: 2025-06-12T07:29:34.288Z
 startTime: 2022-07-05T11:26:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
