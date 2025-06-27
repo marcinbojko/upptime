@@ -11,10 +11,10 @@
     "uptimeMonth": "84.31%",
     "uptimeYear": "97.85%",
     "time": 1375,
-    "timeDay": 1600,
-    "timeWeek": 2940,
-    "timeMonth": 1658,
-    "timeYear": 1400,
+    "timeDay": 1557,
+    "timeWeek": 1534,
+    "timeMonth": 1664,
+    "timeYear": 1401,
     "dailyMinutesDown": {
       "2025-06-23": 334,
       "2025-06-22": 199,
@@ -51,8 +51,7 @@
       "2024-08-05": 22,
       "2024-08-04": 256,
       "2024-07-15": 27,
-      "2024-07-02": 25,
-      "2024-06-27": 288
+      "2024-07-02": 25
     }
   },
   {
@@ -61,15 +60,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.72%",
     "uptimeMonth": "84.33%",
     "uptimeYear": "97.84%",
-    "time": 1297,
-    "timeDay": 1684,
-    "timeWeek": 3004,
-    "timeMonth": 1659,
+    "time": 1298,
+    "timeDay": 1461,
+    "timeWeek": 1653,
+    "timeMonth": 1662,
     "timeYear": 1306,
     "dailyMinutesDown": {
       "2025-06-23": 334,
@@ -108,8 +107,7 @@
       "2024-08-05": 20,
       "2024-08-04": 264,
       "2024-07-15": 27,
-      "2024-07-02": 24,
-      "2024-06-27": 287
+      "2024-07-02": 24
     }
   },
   {
@@ -120,14 +118,14 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.53%",
+    "uptimeWeek": "94.72%",
     "uptimeMonth": "93.09%",
     "uptimeYear": "98.82%",
     "time": 758,
-    "timeDay": 914,
-    "timeWeek": 2542,
+    "timeDay": 773,
+    "timeWeek": 1186,
     "timeMonth": 814,
-    "timeYear": 757,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2025-06-23": 334,
       "2025-06-22": 198,
@@ -181,9 +179,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 1020,
-    "timeWeek": 924,
+    "time": 841,
+    "timeDay": 970,
+    "timeWeek": 948,
     "timeMonth": 890,
     "timeYear": 857,
     "dailyMinutesDown": {}
@@ -195,17 +193,16 @@
     "slug": "bojko-dev",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 540,
-    "timeWeek": 497,
-    "timeMonth": 472,
+    "timeDay": 486,
+    "timeWeek": 504,
+    "timeMonth": 474,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2025-06-26": 9,
       "2025-06-15": 18
     }
   },
@@ -221,9 +218,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
-    "timeWeek": 4,
-    "timeMonth": 5,
+    "timeDay": 18,
+    "timeWeek": 7,
+    "timeMonth": 6,
     "timeYear": 4,
     "dailyMinutesDown": {}
   },
@@ -239,9 +236,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 3,
-    "timeWeek": 5,
-    "timeMonth": 5,
+    "timeDay": 14,
+    "timeWeek": 6,
+    "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
   }
