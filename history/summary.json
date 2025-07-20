@@ -176,18 +176,20 @@
     "url": "https://cloud.supla.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.supla.org.ico",
     "slug": "supla-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 846,
+    "time": 847,
     "timeDay": 730,
     "timeWeek": 747,
     "timeMonth": 905,
     "timeYear": 859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-20": 0
+    }
   },
   {
     "name": "bojko.dev",
