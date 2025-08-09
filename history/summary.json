@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.85%",
     "time": 1417,
-    "timeDay": 1245,
-    "timeWeek": 1443,
-    "timeMonth": 1685,
+    "timeDay": 1348,
+    "timeWeek": 1450,
+    "timeMonth": 1675,
     "timeYear": 1398,
     "dailyMinutesDown": {
       "2025-08-05": 47,
@@ -53,8 +53,7 @@
       "2024-09-12": 33,
       "2024-08-25": 108,
       "2024-08-18": 127,
-      "2024-08-10": 389,
-      "2024-08-09": 611
+      "2024-08-10": 389
     }
   },
   {
@@ -67,12 +66,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "97.75%",
+    "uptimeYear": "97.82%",
     "time": 1309,
-    "timeDay": 1492,
-    "timeWeek": 1376,
-    "timeMonth": 1292,
-    "timeYear": 1312,
+    "timeDay": 1151,
+    "timeWeek": 1374,
+    "timeMonth": 1279,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2025-08-05": 47,
       "2025-08-03": 54,
@@ -112,8 +111,7 @@
       "2024-09-12": 33,
       "2024-08-25": 108,
       "2024-08-18": 126,
-      "2024-08-10": 389,
-      "2024-08-09": 611
+      "2024-08-10": 389
     }
   },
   {
@@ -122,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.68%",
     "time": 762,
-    "timeDay": 574,
-    "timeWeek": 853,
-    "timeMonth": 789,
+    "timeDay": 544,
+    "timeWeek": 851,
+    "timeMonth": 782,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2025-08-03": 54,
@@ -189,10 +187,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 558,
-    "timeWeek": 534,
-    "timeMonth": 646,
+    "time": 834,
+    "timeDay": 480,
+    "timeWeek": 523,
+    "timeMonth": 625,
     "timeYear": 843,
     "dailyMinutesDown": {}
   },
@@ -208,9 +206,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 481,
-    "timeDay": 511,
-    "timeWeek": 473,
-    "timeMonth": 467,
+    "timeDay": 388,
+    "timeWeek": 470,
+    "timeMonth": 462,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2025-08-06": 41,
@@ -230,8 +228,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
-    "timeWeek": 2,
+    "timeDay": 6,
+    "timeWeek": 3,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -248,8 +246,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 3,
-    "timeWeek": 3,
+    "timeDay": 6,
+    "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 5,
     "dailyMinutesDown": {
