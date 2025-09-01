@@ -1,7 +1,7 @@
 url: https://bojko.dev/
-status: up
-code: 200
+status: down
+code: 415
 responseTime: 627
-lastUpdated: 2025-08-31T23:04:09.508Z
+lastUpdated: 2025-09-01T06:51:41.134Z
 startTime: 2024-03-24T16:12:13.026Z
 generator: Upptime <https://github.com/upptime/upptime>
