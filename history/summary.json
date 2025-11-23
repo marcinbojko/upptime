@@ -6,9 +6,9 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "85.50%",
-    "uptimeWeek": "76.61%",
-    "uptimeMonth": "87.95%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "76.72%",
+    "uptimeMonth": "88.00%",
     "uptimeYear": "97.74%",
     "time": 1480,
     "timeDay": 1362,
@@ -16,7 +16,7 @@
     "timeMonth": 1403,
     "timeYear": 1481,
     "dailyMinutesDown": {
-      "2025-11-23": 170,
+      "2025-11-23": 159,
       "2025-11-22": 284,
       "2025-11-21": 245,
       "2025-11-20": 314,
@@ -45,7 +45,8 @@
       "2025-09-02": 25,
       "2025-08-27": 56,
       "2025-08-24": 70,
-      "2025-08-21": 268
+      "2025-08-21": 268,
+      "2025-08-05": 23
     }
   },
   {
@@ -53,16 +54,16 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "87.59%",
-    "uptimeWeek": "85.23%",
-    "uptimeMonth": "89.98%",
-    "uptimeYear": "96.92%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "87.58%",
+    "uptimeWeek": "85.31%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "97.40%",
     "time": 1412,
-    "timeDay": 1328,
+    "timeDay": 1324,
     "timeWeek": 1361,
-    "timeMonth": 1398,
+    "timeMonth": 1397,
     "timeYear": 1408,
     "dailyMinutesDown": {
       "2025-11-23": 144,
@@ -111,10 +112,7 @@
       "2025-06-17": 100,
       "2025-06-15": 108,
       "2025-06-11": 410,
-      "2025-06-10": 405,
-      "2025-06-07": 793,
-      "2025-06-06": 1440,
-      "2025-06-05": 307
+      "2025-06-10": 405
     }
   },
   {
@@ -126,7 +124,7 @@
     "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.48%",
-    "uptimeMonth": "93.22%",
+    "uptimeMonth": "93.24%",
     "uptimeYear": "97.36%",
     "time": 838,
     "timeDay": 812,
