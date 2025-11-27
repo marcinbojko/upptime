@@ -1,7 +1,7 @@
 url: https://grafana.bojko.eu
-status: down
-code: 418
-responseTime: 1231
-lastUpdated: 2025-11-27T23:43:00.509Z
+status: up
+code: 200
+responseTime: 1132
+lastUpdated: 2025-11-27T23:55:21.602Z
 startTime: 2022-07-05T06:22:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
