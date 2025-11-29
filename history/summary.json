@@ -6,17 +6,17 @@
     "slug": "grafana",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "80.84%",
-    "uptimeWeek": "84.55%",
-    "uptimeMonth": "93.79%",
+    "uptimeDay": "80.14%",
+    "uptimeWeek": "84.45%",
+    "uptimeMonth": "93.80%",
     "uptimeYear": "99.48%",
     "time": 1448,
     "timeDay": 1264,
-    "timeWeek": 1336,
+    "timeWeek": 1335,
     "timeMonth": 1371,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2025-11-29": 276,
+      "2025-11-29": 286,
       "2025-11-28": 142,
       "2025-11-27": 168,
       "2025-11-26": 247,
@@ -27,7 +27,7 @@
       "2025-11-21": 245,
       "2025-11-20": 314,
       "2025-11-19": 285,
-      "2025-11-18": 35
+      "2025-11-18": 18
     }
   },
   {
@@ -35,15 +35,15 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "61.83%",
-    "uptimeWeek": "74.14%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "61.81%",
+    "uptimeWeek": "74.22%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.46%",
     "time": 1383,
-    "timeDay": 1293,
-    "timeWeek": 1309,
+    "timeDay": 1285,
+    "timeWeek": 1308,
     "timeMonth": 1351,
     "timeYear": 1384,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
       "2025-11-24": 451,
       "2025-11-23": 221,
       "2025-11-22": 144,
-      "2025-11-21": 115
+      "2025-11-21": 96
     }
   },
   {
@@ -65,9 +65,9 @@
     "slug": "rancher",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "97.40%",
     "time": 846,
     "timeDay": 663,
@@ -75,7 +75,7 @@
     "timeMonth": 1009,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2025-11-29": 21,
+      "2025-11-29": 31,
       "2025-11-20": 26,
       "2025-11-18": 127,
       "2025-10-28": 360,
