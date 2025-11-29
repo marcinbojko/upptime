@@ -6,9 +6,9 @@
     "slug": "grafana",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "82.11%",
-    "uptimeWeek": "84.73%",
-    "uptimeMonth": "93.76%",
+    "uptimeDay": "81.69%",
+    "uptimeWeek": "84.67%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "99.48%",
     "time": 1449,
     "timeDay": 1273,
@@ -16,7 +16,7 @@
     "timeMonth": 1371,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2025-11-29": 258,
+      "2025-11-29": 264,
       "2025-11-28": 142,
       "2025-11-27": 168,
       "2025-11-26": 247,
@@ -27,7 +27,7 @@
       "2025-11-21": 245,
       "2025-11-20": 314,
       "2025-11-19": 285,
-      "2025-11-18": 65
+      "2025-11-18": 35
     }
   },
   {
@@ -37,9 +37,9 @@
     "slug": "grafana-test",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "63.10%",
-    "uptimeWeek": "74.32%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "62.68%",
+    "uptimeWeek": "74.26%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1383,
     "timeDay": 1293,
@@ -47,7 +47,7 @@
     "timeMonth": 1351,
     "timeYear": 1384,
     "dailyMinutesDown": {
-      "2025-11-29": 493,
+      "2025-11-29": 499,
       "2025-11-28": 367,
       "2025-11-27": 256,
       "2025-11-26": 360,
@@ -55,7 +55,7 @@
       "2025-11-24": 451,
       "2025-11-23": 221,
       "2025-11-22": 144,
-      "2025-11-21": 135
+      "2025-11-21": 115
     }
   },
   {
@@ -63,18 +63,19 @@
     "url": "https://rancher.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "97.36%",
+    "uptimeYear": "97.41%",
     "time": 846,
-    "timeDay": 577,
-    "timeWeek": 2005,
-    "timeMonth": 1015,
+    "timeDay": 663,
+    "timeWeek": 1848,
+    "timeMonth": 1009,
     "timeYear": 862,
     "dailyMinutesDown": {
+      "2025-11-29": 0,
       "2025-11-20": 26,
       "2025-11-18": 127,
       "2025-10-28": 360,
@@ -133,8 +134,7 @@
       "2025-04-28": 26,
       "2025-04-21": 25,
       "2025-04-14": 26,
-      "2025-04-10": 86,
-      "2025-04-03": 253
+      "2025-04-10": 86
     }
   },
   {
