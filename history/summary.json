@@ -6,17 +6,17 @@
     "slug": "grafana",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "81.96%",
-    "uptimeWeek": "84.77%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "81.41%",
+    "uptimeWeek": "84.62%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 1450,
-    "timeDay": 1256,
+    "timeDay": 1264,
     "timeWeek": 1336,
     "timeMonth": 1371,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2025-11-29": 233,
+      "2025-11-29": 248,
       "2025-11-28": 142,
       "2025-11-27": 168,
       "2025-11-26": 247,
@@ -27,7 +27,7 @@
       "2025-11-21": 245,
       "2025-11-20": 314,
       "2025-11-19": 285,
-      "2025-11-18": 105
+      "2025-11-18": 65
     }
   },
   {
@@ -35,16 +35,16 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "64.52%",
+    "uptimeDay": "64.51%",
     "uptimeWeek": "74.52%",
-    "uptimeMonth": "93.51%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 1382,
-    "timeDay": 1303,
-    "timeWeek": 1314,
-    "timeMonth": 1353,
+    "timeDay": 1298,
+    "timeWeek": 1313,
+    "timeMonth": 1352,
     "timeYear": 1385,
     "dailyMinutesDown": {
       "2025-11-29": 472,
@@ -55,8 +55,7 @@
       "2025-11-24": 451,
       "2025-11-23": 221,
       "2025-11-22": 144,
-      "2025-11-21": 135,
-      "2025-11-20": 28
+      "2025-11-21": 135
     }
   },
   {
@@ -65,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
