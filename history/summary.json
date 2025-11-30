@@ -6,17 +6,17 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "76.33%",
-    "uptimeWeek": "83.63%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "76.77%",
+    "uptimeWeek": "83.69%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "99.47%",
     "time": 1440,
     "timeDay": 1237,
     "timeWeek": 1325,
     "timeMonth": 1363,
     "timeYear": 1441,
     "dailyMinutesDown": {
-      "2025-11-30": 158,
+      "2025-11-30": 152,
       "2025-11-29": 318,
       "2025-11-28": 142,
       "2025-11-27": 168,
@@ -27,7 +27,7 @@
       "2025-11-22": 284,
       "2025-11-21": 245,
       "2025-11-20": 314,
-      "2025-11-19": 117
+      "2025-11-19": 165
     }
   },
   {
@@ -35,16 +35,16 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "72.20%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "72.18%",
     "uptimeWeek": "73.43%",
-    "uptimeMonth": "93.38%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 1383,
-    "timeDay": 1220,
-    "timeWeek": 1300,
-    "timeMonth": 1346,
+    "timeDay": 1211,
+    "timeWeek": 1297,
+    "timeMonth": 1345,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2025-11-30": 200,
@@ -55,7 +55,7 @@
       "2025-11-25": 408,
       "2025-11-24": 451,
       "2025-11-23": 221,
-      "2025-11-22": 118
+      "2025-11-22": 88
     }
   },
   {
@@ -162,9 +162,9 @@
     "slug": "bojko-dev",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.94%",
     "time": 503,
     "timeDay": 1201,
@@ -172,7 +172,7 @@
     "timeMonth": 531,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-11-30": 37,
+      "2025-11-30": 31,
       "2025-11-27": 27,
       "2025-11-14": 38,
       "2025-11-12": 17,
