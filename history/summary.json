@@ -4,19 +4,19 @@
     "url": "https://grafana.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "84.93%",
-    "uptimeWeek": "83.83%",
-    "uptimeMonth": "93.82%",
+    "uptimeDay": "85.40%",
+    "uptimeWeek": "83.90%",
+    "uptimeMonth": "93.74%",
     "uptimeYear": "99.48%",
     "time": 1432,
-    "timeDay": 1376,
-    "timeWeek": 1314,
-    "timeMonth": 1360,
-    "timeYear": 1437,
+    "timeDay": 1380,
+    "timeWeek": 1312,
+    "timeMonth": 1359,
+    "timeYear": 1436,
     "dailyMinutesDown": {
-      "2025-12-01": 216,
+      "2025-12-01": 209,
       "2025-11-30": 222,
       "2025-11-29": 318,
       "2025-11-28": 142,
@@ -27,7 +27,7 @@
       "2025-11-23": 183,
       "2025-11-22": 284,
       "2025-11-21": 245,
-      "2025-11-20": 140
+      "2025-11-20": 182
     }
   },
   {
@@ -35,16 +35,16 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "78.35%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "78.33%",
     "uptimeWeek": "74.75%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.44%",
     "time": 1379,
-    "timeDay": 1475,
-    "timeWeek": 1306,
-    "timeMonth": 1345,
+    "timeDay": 1460,
+    "timeWeek": 1305,
+    "timeMonth": 1344,
     "timeYear": 1379,
     "dailyMinutesDown": {
       "2025-12-01": 308,
@@ -55,7 +55,7 @@
       "2025-11-26": 360,
       "2025-11-25": 408,
       "2025-11-24": 451,
-      "2025-11-23": 57
+      "2025-11-23": 36
     }
   },
   {
