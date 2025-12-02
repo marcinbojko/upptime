@@ -4,17 +4,17 @@
     "url": "https://grafana.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "74.84%",
     "uptimeWeek": "82.89%",
     "uptimeMonth": "93.65%",
     "uptimeYear": "99.47%",
     "time": 1432,
-    "timeDay": 1417,
-    "timeWeek": 1312,
+    "timeDay": 1414,
+    "timeWeek": 1311,
     "timeMonth": 1361,
-    "timeYear": 1435,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2025-12-02": 287,
       "2025-12-01": 268,
@@ -37,9 +37,9 @@
     "slug": "grafana-test",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "84.27%",
-    "uptimeWeek": "75.94%",
-    "uptimeMonth": "93.27%",
+    "uptimeDay": "84.76%",
+    "uptimeWeek": "76.02%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "99.44%",
     "time": 1378,
     "timeDay": 1383,
@@ -47,7 +47,7 @@
     "timeMonth": 1340,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2025-12-02": 217,
+      "2025-12-02": 210,
       "2025-12-01": 318,
       "2025-11-30": 266,
       "2025-11-29": 518,
@@ -55,7 +55,7 @@
       "2025-11-27": 256,
       "2025-11-26": 360,
       "2025-11-25": 408,
-      "2025-11-24": 243
+      "2025-11-24": 259
     }
   },
   {
