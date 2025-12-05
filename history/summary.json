@@ -4,16 +4,16 @@
     "url": "https://grafana.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "70.62%",
-    "uptimeWeek": "78.64%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "78.75%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "99.46%",
     "time": 1427,
-    "timeDay": 1299,
-    "timeWeek": 1334,
-    "timeMonth": 1362,
+    "timeDay": 1290,
+    "timeWeek": 1333,
+    "timeMonth": 1361,
     "timeYear": 1429,
     "dailyMinutesDown": {
       "2025-12-05": 403,
@@ -26,7 +26,7 @@
       "2025-11-28": 142,
       "2025-11-27": 168,
       "2025-11-26": 247,
-      "2025-11-25": 182
+      "2025-11-25": 153
     }
   },
   {
