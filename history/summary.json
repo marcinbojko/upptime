@@ -6,9 +6,9 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "76.13%",
-    "uptimeWeek": "77.83%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "77.40%",
+    "uptimeWeek": "77.92%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 1426,
     "timeDay": 1309,
@@ -16,7 +16,7 @@
     "timeMonth": 1358,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2025-12-06": 244,
+      "2025-12-06": 235,
       "2025-12-05": 522,
       "2025-12-04": 280,
       "2025-12-03": 299,
@@ -26,7 +26,7 @@
       "2025-11-29": 318,
       "2025-11-28": 142,
       "2025-11-27": 168,
-      "2025-11-26": 73
+      "2025-11-26": 95
     }
   },
   {
@@ -34,15 +34,15 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "83.32%",
-    "uptimeWeek": "80.67%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "83.31%",
+    "uptimeWeek": "80.70%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
-    "time": 1377,
-    "timeDay": 1313,
-    "timeWeek": 1318,
+    "time": 1376,
+    "timeDay": 1306,
+    "timeWeek": 1319,
     "timeMonth": 1339,
     "timeYear": 1372,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
       "2025-11-30": 266,
       "2025-11-29": 518,
       "2025-11-28": 367,
-      "2025-11-27": 176
+      "2025-11-27": 144
     }
   },
   {
@@ -162,9 +162,9 @@
     "slug": "bojko-dev",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.92%",
     "time": 505,
     "timeDay": 505,
@@ -172,7 +172,7 @@
     "timeMonth": 537,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-12-06": 45,
+      "2025-12-06": 36,
       "2025-12-05": 31,
       "2025-11-30": 51,
       "2025-11-27": 27,
