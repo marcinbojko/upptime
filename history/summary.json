@@ -6,17 +6,17 @@
     "slug": "grafana",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "67.01%",
-    "uptimeWeek": "77.70%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "66.95%",
+    "uptimeWeek": "77.55%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 1425,
-    "timeDay": 1259,
+    "timeDay": 1260,
     "timeWeek": 1337,
     "timeMonth": 1358,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2025-12-06": 193,
+      "2025-12-06": 208,
       "2025-12-05": 522,
       "2025-12-04": 280,
       "2025-12-03": 299,
@@ -26,7 +26,7 @@
       "2025-11-29": 318,
       "2025-11-28": 142,
       "2025-11-27": 168,
-      "2025-11-26": 142
+      "2025-11-26": 111
     }
   },
   {
@@ -34,17 +34,17 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "87.02%",
+    "uptimeDay": "87.01%",
     "uptimeWeek": "80.15%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "99.43%",
-    "time": 1378,
-    "timeDay": 1375,
-    "timeWeek": 1324,
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "99.44%",
+    "time": 1377,
+    "timeDay": 1363,
+    "timeWeek": 1321,
     "timeMonth": 1341,
-    "timeYear": 1374,
+    "timeYear": 1373,
     "dailyMinutesDown": {
       "2025-12-06": 167,
       "2025-12-05": 173,
@@ -55,7 +55,7 @@
       "2025-11-30": 266,
       "2025-11-29": 518,
       "2025-11-28": 367,
-      "2025-11-27": 256
+      "2025-11-27": 222
     }
   },
   {
@@ -162,9 +162,9 @@
     "slug": "bojko-dev",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.92%",
     "time": 505,
     "timeDay": 496,
@@ -172,7 +172,7 @@
     "timeMonth": 536,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-12-06": 47,
+      "2025-12-06": 36,
       "2025-12-05": 31,
       "2025-11-30": 51,
       "2025-11-27": 27,
