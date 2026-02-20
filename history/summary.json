@@ -4,17 +4,17 @@
     "url": "https://grafana.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "97.70%",
+    "uptimeDay": "97.69%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "96.16%",
-    "uptimeYear": "98.98%",
-    "time": 1449,
-    "timeDay": 1637,
-    "timeWeek": 1687,
-    "timeMonth": 2132,
-    "timeYear": 1474,
+    "uptimeYear": "98.99%",
+    "time": 1448,
+    "timeDay": 1343,
+    "timeWeek": 1564,
+    "timeMonth": 2108,
+    "timeYear": 1473,
     "dailyMinutesDown": {
       "2026-02-20": 33,
       "2026-02-12": 25,
@@ -41,7 +41,7 @@
       "2025-12-03": 299,
       "2025-12-02": 338,
       "2025-12-01": 268,
-      "2025-11-30": 70
+      "2025-11-30": 44
     }
   },
   {
@@ -49,17 +49,17 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "93.72%",
+    "uptimeDay": "93.70%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "89.41%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.65%",
     "time": 1394,
-    "timeDay": 1683,
-    "timeWeek": 1740,
-    "timeMonth": 1873,
-    "timeYear": 1407,
+    "timeDay": 1491,
+    "timeWeek": 1632,
+    "timeMonth": 1847,
+    "timeYear": 1406,
     "dailyMinutesDown": {
       "2026-02-20": 91,
       "2026-02-09": 25,
@@ -83,7 +83,7 @@
       "2025-12-04": 311,
       "2025-12-03": 356,
       "2025-12-02": 265,
-      "2025-12-01": 272
+      "2025-12-01": 227
     }
   },
   {
@@ -91,16 +91,16 @@
     "url": "https://rancher.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "95.41%",
+    "uptimeDay": "95.38%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "95.19%",
     "uptimeYear": "97.18%",
     "time": 864,
-    "timeDay": 832,
-    "timeWeek": 786,
-    "timeMonth": 873,
+    "timeDay": 734,
+    "timeWeek": 746,
+    "timeMonth": 867,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2026-02-20": 66,
@@ -160,7 +160,7 @@
       "2025-06-09": 83,
       "2025-06-08": 244,
       "2025-06-07": 137,
-      "2025-06-06": 106
+      "2025-06-06": 90
     }
   },
   {
