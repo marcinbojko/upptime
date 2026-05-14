@@ -12,7 +12,7 @@
     "uptimeYear": "98.98%",
     "time": 1515,
     "timeDay": 2263,
-    "timeWeek": 5015,
+    "timeWeek": 1847,
     "timeMonth": 2559,
     "timeYear": 1521,
     "dailyMinutesDown": {
@@ -62,7 +62,7 @@
     "uptimeYear": "98.64%",
     "time": 1441,
     "timeDay": 2217,
-    "timeWeek": 5115,
+    "timeWeek": 1971,
     "timeMonth": 2264,
     "timeYear": 1457,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
     "uptimeYear": "97.17%",
     "time": 874,
     "timeDay": 892,
-    "timeWeek": 810,
+    "timeWeek": 760,
     "timeMonth": 757,
     "timeYear": 904,
     "dailyMinutesDown": {
@@ -206,18 +206,19 @@
     "url": "https://bojko.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/bojko.dev.ico",
     "slug": "bojko-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "99.40%",
     "time": 549,
-    "timeDay": 708,
-    "timeWeek": 543,
+    "timeDay": 627,
+    "timeWeek": 550,
     "timeMonth": 582,
     "timeYear": 555,
     "dailyMinutesDown": {
+      "2026-05-14": 1,
       "2026-05-11": 80,
       "2026-05-10": 122,
       "2026-05-08": 30,
@@ -260,7 +261,7 @@
       "2026-03-22": 17,
       "2026-03-21": 25,
       "2026-03-20": 84,
-      "2026-03-19": 41
+      "2026-03-19": 21
     }
   },
   {
