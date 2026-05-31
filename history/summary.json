@@ -214,9 +214,9 @@
     "slug": "bojko-dev",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "99.34%",
     "time": 551,
     "timeDay": 558,
@@ -269,7 +269,7 @@
       "2026-05-27": 71,
       "2026-05-28": 23,
       "2026-05-30": 19,
-      "2026-05-31": 1
+      "2026-05-31": 21
     }
   },
   {
