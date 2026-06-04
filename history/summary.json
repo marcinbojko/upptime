@@ -119,7 +119,7 @@
     "timeDay": 678,
     "timeWeek": 682,
     "timeMonth": 742,
-    "timeYear": 928,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-06-06": 22,
       "2025-06-07": 137,
@@ -214,7 +214,7 @@
     "slug": "bojko-dev",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "58.39%",
+    "uptimeDay": "60.93%",
     "uptimeWeek": "86.00%",
     "uptimeMonth": "94.42%",
     "uptimeYear": "99.17%",
