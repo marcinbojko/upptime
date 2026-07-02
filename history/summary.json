@@ -202,16 +202,16 @@
     "url": "https://bojko.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/bojko.dev.ico",
     "slug": "bojko-dev",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "82.43%",
-    "uptimeWeek": "77.24%",
-    "uptimeMonth": "83.13%",
-    "uptimeYear": "98.59%",
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "69.78%",
+    "uptimeWeek": "74.95%",
+    "uptimeMonth": "82.60%",
+    "uptimeYear": "98.55%",
     "time": 556,
-    "timeDay": 498,
-    "timeWeek": 560,
-    "timeMonth": 583,
+    "timeDay": 545,
+    "timeWeek": 563,
+    "timeMonth": 584,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2026-06-07": 90,
@@ -239,7 +239,7 @@
       "2026-06-29": 366,
       "2026-06-30": 474,
       "2026-07-01": 237,
-      "2026-07-02": 25
+      "2026-07-02": 256
     }
   },
   {
