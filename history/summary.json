@@ -114,10 +114,10 @@
     "slug": "rancher",
     "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.67%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "97.66%",
     "time": 934,
     "timeDay": 1386,
     "timeWeek": 811,
@@ -171,7 +171,7 @@
       "2026-05-17": 17,
       "2026-05-21": 82,
       "2026-06-09": 68,
-      "2026-07-28": 0
+      "2026-07-28": 55
     }
   },
   {
