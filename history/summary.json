@@ -4,16 +4,16 @@
     "url": "https://grafana.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.bojko.eu.ico",
     "slug": "grafana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "98.94%",
     "time": 1531,
-    "timeDay": 2206,
-    "timeWeek": 1818,
-    "timeMonth": 1680,
+    "timeDay": 2112,
+    "timeWeek": 1830,
+    "timeMonth": 1687,
     "timeYear": 1530,
     "dailyMinutesDown": {
       "2025-12-01": 74,
@@ -51,7 +51,7 @@
       "2026-05-21": 83,
       "2026-06-09": 70,
       "2026-07-28": 138,
-      "2026-08-08": 1
+      "2026-08-08": 41
     }
   },
   {
@@ -59,17 +59,17 @@
     "url": "https://grafana-test.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana-test.bojko.eu.ico",
     "slug": "grafana-test",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.59%",
-    "time": 1475,
-    "timeDay": 2337,
-    "timeWeek": 1742,
-    "timeMonth": 1776,
-    "timeYear": 1473,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.58%",
+    "time": 1476,
+    "timeDay": 2215,
+    "timeWeek": 1768,
+    "timeMonth": 1782,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2025-12-03": 356,
       "2025-12-02": 3,
@@ -107,7 +107,7 @@
       "2026-05-21": 83,
       "2026-06-09": 68,
       "2026-07-05": 183,
-      "2026-08-08": 1
+      "2026-08-08": 41
     }
   },
   {
@@ -115,16 +115,16 @@
     "url": "https://rancher.bojko.eu",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.bojko.eu.ico",
     "slug": "rancher",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "97.68%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "97.67%",
     "time": 935,
-    "timeDay": 1535,
-    "timeWeek": 857,
-    "timeMonth": 901,
+    "timeDay": 1241,
+    "timeWeek": 835,
+    "timeMonth": 894,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2025-08-21": 268,
@@ -173,7 +173,7 @@
       "2026-05-21": 82,
       "2026-06-09": 68,
       "2026-07-28": 339,
-      "2026-08-08": 0
+      "2026-08-08": 41
     }
   },
   {
